@@ -18,9 +18,9 @@ Depois disso parti para a instalação do Expo (veja no google a infinidade de p
 
 [03]. Escolho um template (ou pode usar o defusr: Blank dando  `Enter`) e coloco o nome do meu projeto (via teclado embora nem apareça direito). 
 
-[04]. Concluída essa instalação entro na pasta do projeto e vou para a IDE em uso (no meu caso o Visual Code via: `code .` ou abrindo a pasta no seu programa de uso).
+[04]. Concluída essa instalação entro na pasta do projeto e vou para a IDE em uso (no meu caso o Visual Code via: `code .` ou abrindo a pasta na IDE de uso de cada um).
 
-[05]. Como crei o projeto com `npm` para rodar o projeto no seu diretório uso: `npm start`. Uma tela no navegador é aberta com um QRcode. Para usar algum celular físico com Android para desenvolvimento basta conectar o celular na mesma rede em uso pelo computador e instalar o [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US). Instalado o aplicativo basta ler o QRcode e a IDE (em uso) e o celular estarão conectados.
+[05]. Como crei o projeto com `npm` para rodar o projeto no meu diretório uso: `npm start`. Uma tela no navegador é aberta com um QRcode. Para usar algum celular físico com Android para desenvolvimento basta conectar o celular na mesma rede em uso pelo computador e instalar o [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US). Instalado o aplicativo basta ler o QRcode e a IDE (em uso) e o celular estarão conectados.
 
 [06]. Como meu projeto já foi criado basta ir na IDE em uso (no meu caso o Visual Code), na pasta `App.js` e escrever o nosso "Hello World" em React Native (via Expo).
 
