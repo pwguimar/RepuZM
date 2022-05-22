@@ -10,6 +10,7 @@ Eu instalei para o desenvolvimento do projeto tanto o React Native como seu fram
 * Openjdk11.
 * Android Studio.
 
-Depois disso partir para a instalação do Expo. O Expo é um programa indicado para desenvolvedores poucos experientes em mobile (meu caso em 2022)
+Depois disso parti para a instalação do Expo (veja no google a infinidade de posts dicustindo quando usar React Native versus Expo). O Expo é um programa indicado para desenvolvedores poucos experientes em mobile (meu caso em 2022) e os passos que utilizei na instalação foram:
+[01]. Via CMD (como administrador) digito o comando: `npm install -g expo-cli`
 
 
