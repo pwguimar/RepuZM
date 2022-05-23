@@ -24,7 +24,7 @@ Depois disso parti para a instalação do Expo (veja no Google a infinidade de p
 
 [06]. Como meu projeto já foi criado basta ir na IDE em uso (no meu caso o Visual Code), na pasta `App.js` e escrever o nosso "Hello World" em React Native (via Expo).
 
-Fiz um curto [Vídeo]() dessa maneira rápida de fazer "Hello World" via Expo (e sanar algumas dúvidas do passo a passo acima). De curiosidade, eu tenho menos problema com meu aparelho físico (via Qrcode) que com o Emulador (quando eu abro o emulador via IDE nem sempre dá tão certo quando eu abro via Android Studio).
+Fiz um curto [Vídeo](https://www.youtube.com/watch?v=2FilQa-AYn0) dessa maneira rápida de fazer "Hello World" via Expo (e sanar algumas dúvidas do passo a passo acima). De curiosidade, eu tenho menos problema com meu aparelho físico (via Qrcode) que com o Emulador (quando eu abro o emulador via IDE nem sempre dá tão certo quando eu abro via Android Studio).
 
 
 
